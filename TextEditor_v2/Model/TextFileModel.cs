@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace TextEditor.Models
+namespace TextEditor_v2
 {
     public class TextFileModel
     {
